@@ -7,7 +7,7 @@
 + API Services
   + [Tinkoff](https://github.com/MoZoLbKA/TinfoffKassaService)
 
-+ Projects in Univercity
++ Projects in University
   + [HackathonBotPMPMPM](https://github.com/Leonid-Vizel/HackathonBotPMPMPM)
   + [:lock:Academic Performance Diary:lock:](https://github.com/MoZoLbKA/AlgebraAndGeometry)
 + БД, Excel, Шаблоны для быстрого старта
